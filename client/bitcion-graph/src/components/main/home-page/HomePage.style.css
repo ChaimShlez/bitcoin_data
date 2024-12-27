@@ -1,0 +1,18 @@
+.fiter-buttons {
+    margin: 10px;
+}
+button{
+    height: 33px;
+    border: none;
+    margin: 10px;
+    background-color: #9abddb;
+    width: 75px;
+    border-radius: 5px;
+}
+
+.graph {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
